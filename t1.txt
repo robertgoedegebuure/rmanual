@@ -1,0 +1,4 @@
+name	gender	age
+John	M	20
+Peter	M	40
+Eve	F	25
